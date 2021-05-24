@@ -1,7 +1,7 @@
-# My Portfolio
-## My PacMen Repo
+# Portfolio
+## PacMen Repo
 <a href= "https://premmuddu.github.io/PacMen/"> PacMen </a>
-## My Eyes Repo
+## Eyes Repo
 <a href= "https://premmuddu.github.io/Eye/"> Eyes </a>
-## My Real Real Time Bus Tracking
+## Real Time Bus Tracking Repo
 <a href= "https://premmuddu.github.io/Real Time MBTA Bus Tracking/"> Real Time MBTA Bus Tracking </a>
