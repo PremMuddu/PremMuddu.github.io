@@ -6,4 +6,4 @@
 ## Eyes Repo
 <a href= "https://premmuddu.github.io/Eye/"> Eyes </a>
 ## Real Time Bus Tracking Repo
-<a href= "https://premmuddu.github.io/RealTimeMBTABusTracking/"> Real Time MBTA Bus Tracking </a>
+<a href= "https://premmuddu.github.io/Real-Time-MBTA-Bus-Tracking/"> Real Time MBTA Bus Tracking </a>
